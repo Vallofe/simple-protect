@@ -6,6 +6,8 @@ Python3 to up.
 
 ### Installation
 ```python
+pip install linepy
+pip install akad
 pip install thrift
 pip install json
 pip install livejson
