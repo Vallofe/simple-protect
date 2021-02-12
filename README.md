@@ -16,7 +16,7 @@ $ cd simple-protect
 $ python3 login.py
 ```
 ### Authtoken
-Input your Token or change your Email and Password <a href="https://github.com/goodop/Public/blob/main/Data/login.json">here</a>
+Input your Token or change your Email and Password <a href="https://github.com/Vallofe/simple-protect/token/login.json">here</a>
 
 <table>
     <tbody>
