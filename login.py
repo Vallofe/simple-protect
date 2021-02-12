@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from LINE import *
+from linepy import *
 from akad.ttypes import OpType, Message, TalkException
 from threading import Thread
 import os, livejson, traceback, time, sys
